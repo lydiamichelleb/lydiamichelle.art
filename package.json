@@ -13,7 +13,7 @@
     "lint:types": "tsc --noEmit --pretty"
   },
   "dependencies": {
-    "@sentry/react": "^6.16.0",
+    "@sentry/react": "^7.45.0",
     "@sentry/tracing": "^6.16.1",
     "gray-matter": "^4.0.3",
     "image-size": "^1.0.0",
